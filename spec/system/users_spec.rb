@@ -154,6 +154,7 @@ describe 'User', type: :system do
     end
   end
 
+  
   describe 'ユーザーページの検証' do
     before do
       @user = create(:user)
